@@ -51,3 +51,5 @@ git config --global user.email fenek1901@gmail.com
 - 30 основных команд (Хабр), которые сделают из вас мастера Git: [Здесь](https://habr.com/ru/company/ruvds/blog/599929/?ysclid=l8737b3pbk655593671)
 
 ![хорошая картинка](image_2022-09-20_23-58-41.png)
+
+![Если пожар](пожар.jpg)
